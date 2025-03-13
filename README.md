@@ -43,8 +43,8 @@ Desde la búsqueda de información hasta la generación del correo, todo el proc
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/Iralak07/Agente-de-venta-virtual.git
+   cd app
    ```
 
 2. Instalar dependencias:
